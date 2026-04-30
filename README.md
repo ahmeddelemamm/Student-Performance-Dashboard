@@ -65,11 +65,12 @@ Using this dashboard, you can:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](student-performance-dashboard.gif)
+![Dashboard Preview](Student-Performance-Dashboard.png)
 
 ---
 ## 🎥 Demo
 
+![Demo](Student-Performance-Dashboard.gif)
 
 ---
 ## 👨‍💻 Author
