@@ -70,7 +70,7 @@ Using this dashboard, you can:
 ---
 ## 🎥 Demo
 
-![Demo](Student-Performance-Dashboard.gif)
+![Demo](Student-Performance-Dashboad.gif)
 
 ---
 ## 👨‍💻 Author
